@@ -83,20 +83,10 @@ const CONFIG = {
       'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/MakraiCV-1.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'PCR',
+    'Genetics',
+    'Bioinformatics',
+    'Statistics',
   ],
   experiences: [
     {
@@ -123,17 +113,21 @@ const CONFIG = {
     },
   ],
   educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+    { instituion: 'Skyline College',
+      degree: 'Associate's in Biology',
+      from: '2018',
+      to: '2021',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'California State University, East Bay',
+      degree: 'Bachelor's in Cell and Molecular Biology',
+      from: '2021',
+      to: '2022',
+    },
+    {
+      institution: 'California State University, Stanislaus',
+      degree: 'Master's Degree in Biological Sciences',
+      status: 'in progess'
     },
   ],
   publications: [
