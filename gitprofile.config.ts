@@ -84,6 +84,7 @@ const CONFIG = {
   },
   skills: [
     'PCR',
+    'Agarose Gel',
     'Genetics',
     'Bioinformatics',
     'Statistics',
