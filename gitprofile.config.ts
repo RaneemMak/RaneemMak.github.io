@@ -91,18 +91,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'CSU Stanisluas',
+      position: 'Graduate Teaching Associate',
+      from: 'August 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'CSU East Bay',
+      position: 'Undergraduate Research',
+      from: 'Aug 2021',
+      to: 'May 2022',
+      companyLink: '',
     },
   ],
   certifications: [
