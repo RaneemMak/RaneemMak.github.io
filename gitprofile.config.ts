@@ -115,19 +115,19 @@ const CONFIG = {
   ],
   educations: [
     { instituion: 'Skyline College',
-      degree: 'Associate's in Biology',
+      degree: 'Associates in Biology',
       from: '2018',
       to: '2021',
     },
     {
       institution: 'California State University, East Bay',
-      degree: 'Bachelor's in Cell and Molecular Biology',
+      degree: 'Bachelors in Cell and Molecular Biology',
       from: '2021',
       to: '2022',
     },
     {
       institution: 'California State University, Stanislaus',
-      degree: 'Master's Degree in Biological Sciences',
+      degree: 'Masters Degree in Biological Sciences',
       status: 'in progess'
     },
   ],
