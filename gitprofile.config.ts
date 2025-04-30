@@ -46,7 +46,7 @@ const CONFIG = {
             'This paper demonstrates the dangers of relying on petroleum-based plastics as they pose both health and environmental issues and suugest the use of alternatives',
           imageUrl:
             'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/Research.png',
-          link: 'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/Research.png',
+          link: 'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/Research-Bio230.pdf',
         },
       ],
     },
