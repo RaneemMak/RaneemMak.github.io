@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Biotechnology Alternative to Petroleum-based Plastics',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This paper demonstrates the dangers of relying on petroleum-based plastics as they pose both health and environmental issues and suugest the use of alternatives',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/Research.png',
+          link: 'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/Research.png',
         },
       ],
     },
