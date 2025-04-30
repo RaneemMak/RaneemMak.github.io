@@ -76,19 +76,19 @@ const CONFIG = {
     telegram: '',
     website: 'https://raneemmak.github.io',
     phone: '',
-    email: 'raneemmakrai2@gmail,com',
+    email: 'raneemmakrai2@gmail.com',
   },
   resume: {
     fileUrl:
       'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/MakraiCV-1.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
+  skills: {
     'PCR',
     'Agarose Gel',
     'Genetics',
     'Bioinformatics',
     'Statistics',
-  ],
+  },
   experiences: [
     {
       company: 'CSU Stanisluas',
