@@ -114,7 +114,8 @@ const CONFIG = {
     },
   ],
   educations: [
-    { instituion: 'Skyline College',
+    {
+      institution: 'Skyline College',
       degree: 'Associates in Biology',
       from: '2018',
       to: '2021',
@@ -128,7 +129,8 @@ const CONFIG = {
     {
       institution: 'California State University, Stanislaus',
       degree: 'Masters Degree in Biological Sciences',
-      status: 'in progess'
+      from: '2024',
+      to: 'present',
     },
   ],
   publications: [
