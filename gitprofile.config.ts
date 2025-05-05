@@ -131,7 +131,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: 'Christina Johne,Mason Kramer, Raneem Makrai, Holly Moffett, Fiona Shavilof, Tricia A. Van Laar',
-      link: '',
+      link: 'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/Draft_Genome%20_Sequence_of%20_Intestinibacter_bartletti%20DSM%2016795.docx',
       description:
         'This is a manuscript in submission: Here we present the draft genome sequence of Intestinibacter bartletti DSM 16795, a human gut isolate of interest in autism-associated microbiome studies. The genome spans 2.97 Mb across 22 contigs, with a GC content of 28.84% and 100% estimated completeness. Key genomic features include virulence factors, antibiotic resistance genes, biosynthetic clusters, and CRISRP-Cas loci.'
         },
