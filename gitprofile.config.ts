@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Draft Genome Sequence of Intestinibacter bartletti DSM 16795',
+          title: 'SNP RS7903146 to understand my genotype and its clinical significance',
           description:
-            'Here we present the draft genome sequence of Intestinibacter bartletti DSM 16795, a human gut isolate of interest in autism-associated microbiome studies.',
+            'Here  looked at a specific SNP that I have and analyzed it.',
           imageUrl:
-            'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/draftgenome.png',
-          link: 'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/Draft_Genome _Sequence_of _Intestinibacter_bartletti DSM 16795.docx',
+            'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/SNP.png',
+          link: 'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/SNP.pdf',
         },
         {
           title: 'Biotechnology Alternative to Petroleum-based Plastics',
