@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 2, // How many projects to display.
+        limit: 3, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['RaneemMak/Microbiome', 'RaneemMak/genomeanalysis1streport'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['RaneemMak/Microbiome', 'RaneemMak/genomeanalysis1streport','transcriptome'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'SNP RS7903146 to understand my genotype and its clinical significance',
           description:
-            'Here  looked at a specific SNP that I have and analyzed it.',
+            'Here I looked at a specific SNP that I have analyzed.',
           imageUrl:
             'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/SNP.png',
           link: 'https://github.com/RaneemMak/RaneemMak.github.io/raw/main/SNP.pdf',
@@ -138,9 +138,9 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
+    limit: 0, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
